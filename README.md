@@ -1,4 +1,4 @@
-# Healthcare Operation & Revenue Cycle Analytics Dashboard (2020)
+# Healthcare Operation & Revenue Cycle Analytics Dashboard
 
 <p align="center">
   <img src="./images/db_summary.png" alt="Power BI Summary Dashboard" />
