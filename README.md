@@ -13,11 +13,20 @@ This project provides an **analysis of healthcare operations and revenue cycles 
 
 ## Project Overview
 The analysis includes:
-- Realistic yet synthetic patient records
+- Realistic but synthetic patient records
 - Healthcare operation and utilization statistics
 - Finances through claims and transactions
 - Payer performances across many cases
 - Numerous slicers to filter across time, payers, and encounter types and bookmarks to reset to defaults.
+
+## Key Findings
+
+- Dual-eligible/Medicaid payers maintained ~98% collection ratios, outperforming 
+  other payer categories in this dataset despite Medicaid's reputation for lower 
+  reimbursement rates.
+- Rural counties showed per-capita case rates up to 3x the statewide average, 
+  pointing to a geographic utilization gap relevant to resource allocation and 
+  access-to-care planning.
 
 ## Project Structure
 ```
