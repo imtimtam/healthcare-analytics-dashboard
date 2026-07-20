@@ -1,9 +1,10 @@
 # Healthcare Operation & Revenue Cycle Analytics Dashboard
 
 <p align="center">
-  <img src="./images/db_summary.png" alt="Power BI Summary Dashboard" />
+  <img src="./images/db_financial.png" alt="Power BI Financial Dashboard" />
   <br>
   <em>Analysis overview generated in Power BI.</em>
+  <br><br>
   <img src="./images/db_payer.png" alt="Power BI Payer Performance Dashboard" />
   <br>
   <em>An overview on payer performances.</em>
@@ -46,9 +47,9 @@ healthcare_analytics_dashboard/
 ├── powerbi/
 │   └── healthcare_op.pbix            # Power BI dashboard for visual exploration
 ├── sql/
-│   ├── kpi_metrics.png               # SQL queries to validate and explore
-│   ├── raw_tables.png
-│   └── schema_tables.png
+│   ├── kpi_metrics.sql               # SQL queries to validate and explore
+│   ├── raw_tables.sql
+│   └── schema_tables.sql
 └── README.md
 ```
 
