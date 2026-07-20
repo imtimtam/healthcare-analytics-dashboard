@@ -33,6 +33,12 @@ The analysis includes:
 - Rural counties showed per-capita case rates up to 3x the statewide average, 
   pointing to a geographic utilization gap relevant to resource allocation and 
   access-to-care planning.
+- Net outstanding balances were concentrated among a few payers — Medicaid alone 
+  accounted for ~23% of total outstanding ($684K), and the top 3 payers 
+  (Medicaid, Blue Cross, Humana) made up over half of all outstanding balances. 
+  Notably, Medicaid's high outstanding coexists with its ~98% collection ratio, 
+  suggesting longer payment cycles rather than payment risk — consistent with 
+  Medicaid's typically slower, batch-based reimbursement processes.
 
 ## Project Structure
 ```
