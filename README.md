@@ -41,7 +41,8 @@ healthcare_analytics_dashboard/
 ├── images/
 │   ├── db_financial.png              # Screenshot of dashboard pages for previewing
 │   ├── db_payer.png
-│   └── db_summary.png
+│   ├── db_summary.png
+│   └── db_utilization.png
 ├── powerbi/
 │   └── healthcare_op.pbix            # Power BI dashboard for visual exploration
 ├── sql/
