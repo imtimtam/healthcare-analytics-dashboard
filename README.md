@@ -67,7 +67,7 @@ healthcare_analytics_dashboard/
 This project is licensed under the MIT License.
 
 ## Credits and Data Sources
-- **Synthea** – [https://github.com/synthetichealth/synthea?utm_source=chatgpt.com](https://github.com/synthetichealth/synthea?utm_source=chatgpt.com)  
+- **Synthea** – [https://github.com/synthetichealth/synthea](https://github.com/synthetichealth/synthea?utm_source=chatgpt.com)  
   Synthetic health data generation for realistic data required due to HIPAA and sensitivity to real patient data
 
 - **SVG Repo Icons** – [https://www.svgrepo.com/](https://www.svgrepo.com/)  
