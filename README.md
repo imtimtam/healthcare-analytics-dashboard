@@ -23,7 +23,7 @@ The analysis includes:
 - Healthcare operation and utilization statistics
 - Finances through claims and transactions
 - Payer performances across many cases
-- Numerous slicers to filter across time, payers, and encounter types and bookmarks to reset to defaults.
+- Slicers to filter across time period, payer, and encounter type, with bookmarks to reset all filters to default view.
 
 ## Key Findings
 
