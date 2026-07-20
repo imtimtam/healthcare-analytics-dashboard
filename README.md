@@ -1,5 +1,10 @@
 # Healthcare Operation & Revenue Cycle Analytics Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 <p align="center">
   <img src="./images/db_financial.png" alt="Power BI Financial Dashboard" />
   <br>
